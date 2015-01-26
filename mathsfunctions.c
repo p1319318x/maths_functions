@@ -17,3 +17,8 @@ int Division(int a, int b)
 {
 	return a/b;
 }
+
+int remainder(int a, int b)
+{
+	return a%b;
+}
